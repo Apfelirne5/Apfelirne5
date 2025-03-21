@@ -1,6 +1,6 @@
 ## Hi, I'm Thanush! 👋
 
-- 🔭 I'm currently studying Computational Engineerin at TU Darmstadt
+- 🔭 I'm currently studying Computational Engineering (M.Sc.) at TU Darmstadt
 - 🌱 Learning about Generative Models in Computer Vision
 
 <!--
