@@ -2,6 +2,7 @@
 
 - 🔭 I'm currently studying Computational Engineering (M.Sc.) at TU Darmstadt
 - 🌱 Learning about Generative Models in Computer Vision
+- 🧠 Previously I obtained a BSc in Meachnical Engineering
 
 <!--
 **Apfelirne5/Apfelirne5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
